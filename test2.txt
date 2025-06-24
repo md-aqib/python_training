@@ -1,0 +1,41 @@
+1. Secure Password Validator and Generator
+Scenario:
+You are building a login system.
+Write a function that asks the user to enter a password and checks if it:
+-Is at least 8 characters long
+-Contains at least 1 uppercase, 1 lowercase, 1 digit, and 1 special character
+If invalid, suggest a random secure password instead.
+
+2. Smart Birthday Tracker
+Scenario:
+Design a function that:
+Accepts a birthdate input (format: YYYY-MM-DD)
+Returns:
+"Happy Birthday!" if today is the birthday
+Number of days left if it’s not
+Additionally, return the birth month and day as a tuple.
+
+3. Mini Math Quiz Game
+Scenario:
+Create a 5-question math quiz using random arithmetic problems (+, -, *, //).
+Store each question and answer in a dictionary.
+Track the user's score and give feedback at the end:
+“You got 3 out of 5 correct!”
+
+4. Number Insights Analyzer
+Scenario:
+Ask the user to input 10 numbers.
+Write a function that:
+Calculates and returns: mean, max, min, standard deviation
+Returns a tuple with counts of even and odd numbers.
+Display results neatly.
+
+5. Student Score Aggregator
+Scenario:
+Design a system that:
+Accepts student names and marks out of 100
+Stores them in a dictionary
+Returns:
+-Names of students who scored > 90
+-The average score
+Use a function to perform the calculation.

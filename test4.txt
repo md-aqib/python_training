@@ -1,0 +1,38 @@
+1. You are tasked with developing a pet shop management system. Each pet in the shop has detailed information, including their Pet ID, Pet Name, Pet Type, Breed, Age, and Vaccination Status. You need to manage this data using various Python collections: List, Tuple, Set, and Dictionary. Implement CRUD operations and filtering based on these attributes. Also, ensure your code is resilient by handling exceptions.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+2.Write a Python function that checks if a given email address is valid using regular expressions. The email should follow standard format conventions.
+Example:
+    • Valid Input: user@abccorp.com
+    • Invalid Input: user@.com
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+3. Create a Python function to validate an S3 bucket name. The bucket name must:
+    • Be between 10 and 15 characters long.
+    • Contain only lowercase letters, numbers, and hyphens.
+    • Start and end with a letter or number.
+Example:
+    • Valid Input: my-bucket-123
+    • Invalid Input: MyBucket!
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+4. Write a Python function to validate a CIDR block for a VPC. The CIDR block must:
+    • Be in the format x.x.x.x/y where x is between 0-255 and y is between 0-32.
+Example:
+    • Valid Input: 10.0.0.0/16
+    • Invalid Input: 256.0.0.0/24
+
+-----------------------------------------------------------------------------------------------------------------------------
+5. An IT support team manages a list of tickets submitted by employees for resolving technical issues. The system should allow performing CRUD operations (Create, Read, Update, Delete) on the ticket repository. Each ticket must include attributes such as Ticket ID, Issue Description, Priority Level, and Status (e.g., Open, In Progress, Resolved).
+
+The system must ensure robust error handling with user-defined exceptions:
+
+TicketNotFoundException: Raised when attempting to access or modify a ticket that does not exist in the repository.
+InvalidPriorityException: Raised when a ticket is assigned an invalid priority level (e.g., outside the range of 1 to 5).
+
+Design and implement the functionality using Python lists to store and manipulate ticket data while demonstrating the handling of exceptions in practical scenarios.

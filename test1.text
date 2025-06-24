@@ -1,0 +1,41 @@
+------------------------
+
+1.  Print the following pattern
+	(Ex: if my input is 5)
+	Expected output is :
+
+		     *
+                    * *
+                   * * *
+                  * * * *
+                 * * * * *
+                  * * * *	   
+                   * * *   
+                    * *
+                     *
+------------------------------------------------------------------------------------------------------------------
+2. Write a code to accept characters as input and count the number of vowels in it.
+------------------------------------------------------------------------------------------------------------------
+3. Write code to accept a line from the user, do the logics 
+	Condition
+	1. Convert upper case to lower case
+	2. Convert lower case to upper case
+	3. Remove numbers
+	4. Convert special character to space
+
+---------------------------------------------------------------------------------------------------------------
+4.  Accepts 10 numbers within a repetitive loop and compute the following:
+	(a) The biggest number
+	(b) The smallest number
+	(c) The average of the 10 numbers
+---------------------------------------------------------------------------------------------------------------
+5.  Accept the basic salary of an employee as an input and compute the following:
+	(a) DA is 15% of basic
+	(b) HRA is 20% of basic
+	(c) Medical Allowance is 10% of basic
+	(d) PF as 12% of basic
+     The following  information shoud be dispalyed as output:
+	(a) Basic Salary
+	(b) Other Earnings = DA + HRA + Medical Allowance
+	(c) Deductions = PF
+	Final Salary = Basic + Other Earnings – Deductions

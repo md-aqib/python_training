@@ -1,0 +1,18 @@
+1. Create a Class which has Account as fields (Account No, Holder name, Account Type, Balance, Account Status) and perform CRUD operation, try to update the balance of the particular account and delete if the Account status is closed or in active.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+2. Create a class Product with fields (Product ID, Name, Category, Price, Stock Status). Perform CRUD operations on a list of Product objects. 
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+3. Create a base class Animal with attributes (name, species) and a method make_sound(). Derive classes like Dog, Cat, and Bird, each implementing the make_sound() method with specific sounds (e.g., barking, meowing, chirping).
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+4. Create a BankAccount class with fields (account_number, holder_name, balance). Implement methods to deposit(), withdraw(), and check_balance(). Derive a SavingsAccount class that includes an interest rate and implements a method to apply_interest() based on the balance.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
+5. Create an Employee class with fields (employee_id, name, designation, salary). Implement methods to calculate_bonus(), apply_tax(), and generate_payslip(). Derive classes like FullTimeEmployee and PartTimeEmployee with different bonus and tax calculation methods.

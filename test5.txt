@@ -1,0 +1,12 @@
+1. Write a program to unload the Loan details from the database table to .xlsx file, considering the filter conditions (Loan amount >500000) and emi status is in due.
+
+2. Load the Loan file (.xlsx file) into Loan table with necessary validations, write the invalid records to a rejection file.
+
+3. Develop an “Loan information management” module, the system manipulates with data pertaining to loan eligibility.
+a) Create Loan class and its necessary members
+b) Get Loan Details from an excel file and store it to the Database
+c) Use loggers wherever necessary.
+
+4. Write a Python program that reads customer order data from a excel file and segregates the orders into two files based on their status: "In Transit" or "Pending".
+
+5. Write a Python program that reads an Excel sheet containing account records, including account numbers, account types, and email addresses. The program should generate a PDF file for each record, named in the format accno_acctype_statement.pdf, and send an invitation email to the respective email address listed in the sheet. Ensure the generated PDF contains relevant account information formatted neatly.
