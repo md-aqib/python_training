@@ -1,0 +1,12 @@
+Phone dataset cleaning    
+    1. Load the csv file
+    2. print the first 5 rows of the data
+    3. Get the shape of the data
+    4. Get the information about the data
+    5. Check for null values
+    6. Replace the null values in rating column with it mean value
+    7. Replace the null values in os column with its mode value
+    8. Check for duplicated values
+    9. Replace ‘?’ in data with ‘’
+    10. Check the data types of the columns
+    11. Replace ‘,’ with ‘’ in price column and convert it into int data type

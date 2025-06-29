@@ -1,0 +1,25 @@
+Exercises for numpy
+    1. Create a 1D NumPy array with values from 100 to 110.
+
+    2. Create a 2D NumPy array with a shape of (3, 3) filled with random integers between 0 and 9.
+
+    3. Perform element-wise multiplication between two arrays of the same shape.
+
+    4. Create a 3x3 random integer array between 1 and 50.
+        a) Reshape the above array into a 1D array. 
+        b) Calculate the mean, median, and standard deviation(use np.std()) of the 1D array.
+
+    5. Create a random 1D array of 20 elements between 0 and 100.
+        a) Find and print the elements greater than 50.
+        b) Calculate and print the mean of the elements that are divisible by both 2 and 3.
+
+    6.  Create a 3x1 array containing the first three powers of 6 (6^0, 6^1, 6^2).
+        a) Create a 1D array containing the values [10, 100, 1000].
+        b) Multiply the 3x1 array by the 1D array using broadcasting.
+
+    7. Create a 2D array with shape (4, 3) containing random values.
+        a)  Transpose the array to have shape (3, 4). (use np.transpose())
+
+    8. Create a 5x5 array of random integers between 1 and 100.
+        a) Find the maximum value in each row and store it in a 1D array. (use axis=1)
+        b) Calculate the sum of the maximum values from step a.
