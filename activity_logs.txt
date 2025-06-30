@@ -1,0 +1,10 @@
+
+User logged in: alice@example.com
+User logged in: bob@example.com
+Invalid attempt: not_an_email
+User logged out: charlie@example.com
+User logged in: diana@example.net
+Invalid attempt: not_an_email
+User logged in: bob@example.com
+User logged in: charlie@example.com
+User logged out: bob@example.com
